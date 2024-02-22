@@ -88,9 +88,11 @@
 
 ### Design Principles
 
-- We will keep it simple and efficient.
+- Keep it simple and efficient.
 - Prioritize user experience and theme alignment.
+- Intuitive interface.
+- Visually satisfying.
 
 ## Notes
 
-- Continuous communication and collaboration among team members will be necessary to ensure development goes according to plan.
+- The continuous communication and collaboration amongst team members with feedback from potential stakeholders will be necessary to ensure development goes according to plan. By utilizing the information received we can hone our app to the likes, dislikes and wants of user.
